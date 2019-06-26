@@ -9,7 +9,7 @@
 	
 	<div id="content">
 		<h1>The Events Calendar Pro Plugin</h1>
-		<?php echo("<p>$content</p>"); ?>
+		<?php echo "<p>$content</p>"; ?>
 		<?php echo DisplayVar(); ?>
 	</div>
 	
